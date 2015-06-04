@@ -1,0 +1,24 @@
+{
+  "name": "za-laravel/laravel-gallery",
+  "description": "Gallery admin package for Laravel 5",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aleksandr Zamiatin",
+      "email": "cawa123@mail.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "5.0.*",
+    "za-laravel/laravel-admin": "dev-master",
+    "imagine/imagine": "dev-master"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "ZaLaravel\\LaravelGallery\\": "src/ZaLaravel/LaravelGallery"
+    }
+  },
+  "minimum-stability": "dev"
+}
