@@ -5,10 +5,10 @@ namespace ZaLaravel\LaravelGallery;
 use Illuminate\Support\ServiceProvider;
 
 /**
- * Class LaravelStaticPagesServiceProvider
+ * Class LaravelGalleryServiceProvider
  * @package ZaLaravel\LaravelGallery
  */
-class LaravelStaticPagesServiceProvider extends ServiceProvider {
+class LaravelGalleryServiceProvider extends ServiceProvider {
 
     /**
      * @return void
