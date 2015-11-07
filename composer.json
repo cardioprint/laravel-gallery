@@ -20,5 +20,6 @@
       "ZaLaravel\\LaravelGallery\\": "src/ZaLaravel/LaravelGallery"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
